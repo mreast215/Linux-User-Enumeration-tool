@@ -1,2 +1,2 @@
-# Linux-User-Enumeration-tool
-Simple python script to enumrate user information
+# User-Enumeration-tool
+Simple python script to enumrate user information on linux systems
